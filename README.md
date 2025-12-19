@@ -6,6 +6,8 @@ Master in Data Science (UOC)
 
 This project was developed as part of the Master's Final Project in Data Science, addressing the challenges of prediction in the cryptocurrency market through Big Data Streaming and Machine Learning.
 
+**Thesis report (PDF):** `TFM_M5_Alexandre_Vidal.pdf` (available in the repository root)
+
 ## Advisor
 
 **Rafael Luque Ocaña**  
